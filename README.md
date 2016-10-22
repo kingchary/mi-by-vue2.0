@@ -16,12 +16,12 @@ npm run build
 
 ```
 
-## 访问路径
 
-[http://vue.wendaosanshou.top/mi/](http://vue.wendaosanshou.top/mi/)
+
+
 
 ## 建议
-> 这个项目只是一个vue2.0的练手项目。并没有引用一些比较好的vue.js的特性，比如vue-router或vuex。
+> 这个项目只是一个vue2.0的练手项目,基于mi-by-vue vue1.026版本改写的[github地址](https://github.com/wendaosanshou/mi-by-vue)。并没有引用一些比较好的vue.js的特性，比如vue-router或vuex。
 >
 > 如果想系统学习vue.js的话，建议参考[jackblog-vue](https://github.com/jackhutu/jackblog-vue)这个项目。
 >
